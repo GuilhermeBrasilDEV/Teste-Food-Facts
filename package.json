@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-open-food-facts",
+  "version": "1.0.0",
+  "description": "Resolução de Teste para a A vaga para Desenvolvedor Júnior requer a criação de uma API que realiza web scraping no site Open Food Facts. A API deve ser capaz de buscar produtos e detalhes do produto, filtrando por critérios Nutri-Score e NOVA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^22.3.0",
+    "swagger-ui-express": "^5.0.0",
+    "yamljs": "^0.3.0"
+  }
+}
